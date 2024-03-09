@@ -1,2 +1,3 @@
 hello how are you
 this is to pricice devops
+devops is a culture which helo us to 
